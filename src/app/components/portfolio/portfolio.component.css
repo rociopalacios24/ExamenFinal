@@ -1,0 +1,23 @@
+ .example-card {
+    max-width: 375px;
+    background-color:whitesmoke;
+  }
+
+  .example-card2 {
+    background-color:aliceblue;
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+
+  table {
+    width: 100%;
+    background-color:azure;
+  }
+
+  .table2 {
+    width: 100%;
+    background-color:whitesmoke;
+  }
